@@ -1,0 +1,14 @@
+var TinkersConstructPEAPI = [];
+
+BloodWolf = [TinkersConstructPEAPI , ModPE , Level , Player , Entity , Item , Block , Server];
+_TinkersConstructPE0Function_ = 0; //Tinkers'ConstructPE.API
+_TinkersConstructPE1Function_ = 1; //ModPE
+_TinkersConstructPE2Function_ = 2; //Level
+_TinkersConstructPE3Function_ = 3; //Player
+_TinkersConstructPE4Function_ = 4; //Entity
+_TinkersConstructPE5Function_ = 5; //Item
+_TinkersConstructPE6Function_ = 6; //Block
+
+TinkersConstructPE = function(_Tinkers0ConstructPE_ , _Tinkers1ConstructPE_){
+ return _Tinkers0ConstructPE_[_Tinkers1ConstructPE_];
+}
